@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @paperballco
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on webapps
+- 📫 How to reach me paperballco@gmail.com
